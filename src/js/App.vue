@@ -67,18 +67,6 @@ a {
     }
 }
 
-.container {
-    @media(min-width: 1500px){
-        width: 1360px;
-        margin: 0 auto;
-    }
-    @media(max-width: 1500px) and (min-width: 900px){
-        width: 80%;
-        margin: 0 10%;
-    }
-    @media(max-width: 900px){
-        width: 90%;
-        margin: 0 5%;
-    }
-}
+
+
 </style>
